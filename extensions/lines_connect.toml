@@ -13,6 +13,7 @@ sha256 = "b28453d0712b42bed7e55aeab8c847b3c06b6c86b2001942bd22d640ef4d4d6d"
 
 ingetrazo = "0.5.8"
 tags = ["drawing", "productivity", "architecture"]
+screenshot = "lines_connect.png"
 
 [name]
 en = "Lines Connect"
