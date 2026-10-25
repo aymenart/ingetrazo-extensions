@@ -9,7 +9,7 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/aymenart/lines_connect_ingetrazo"
 
 download = "https://github.com/aymenart/lines_connect_ingetrazo/releases/download/v1.3.0/lines_connect_ingetrazo_v1.3.0.zip"
-sha256 = "b28453d0712b42bed7e55aeab8c847b3c06b6c86b2001942bd22d640ef4d4d6d"
+sha256 = "d30f35d73a70aef6292f18212734752a659215379225226ca7e754b854b310d6"
 
 ingetrazo = "0.5.8"
 tags = ["drawing", "productivity", "architecture"]
