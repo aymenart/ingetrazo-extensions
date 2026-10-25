@@ -9,7 +9,7 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/aymenart/trim_fillet"
 
 download = "https://github.com/aymenart/trim_fillet/releases/download/v1.0.0/trim_fillet_v1.0.0.zip"
-sha256 = "84301436bf47b0653a5225d53693912c14a1bd055167db4993820861ffe43805"
+sha256 = "0f0541c6892940d126c1646c4413289f9f88b41737ae1b134ca9c5752deb568d"
 
 ingetrazo = "0.5.8"
 tags = ["drawing", "productivity", "architecture"]
